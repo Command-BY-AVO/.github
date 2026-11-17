@@ -11,4 +11,4 @@ One repo per game (`<game>-commands`), each published with GitHub Pages.
 ## 🔴 YL games (YL Entertainment licence)
 | game | platform | page |
 |---|---|---|
-| ทหารบวกลบ (Army ±) | Kaitunshop | [command-by-avo.github.io/army-commands](https://command-by-avo.github.io/army-commands/) |
+| ทหารบวกลบ (Army ±) | YLTik | [command-by-avo.github.io/army-commands](https://command-by-avo.github.io/army-commands/) |
